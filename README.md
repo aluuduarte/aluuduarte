@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, soy Alejandra Duarte 👋
 
-<!--
-**aluuduarte/aluuduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Systems Analyst | Data Science Student
 
-Here are some ideas to get you started:
+Desarrolladora apasionada por la resolución de problemas técnicos y el análisis de datos. Mi enfoque combina la experiencia en gestión de incidentes con el desarrollo moderno de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente cursando la **Diplomatura en Ciencia de Datos (UNSAM)**.
+- 🌱 Especializándome en **Python** (Django, FastAPI) y **JavaScript** (React, Node.js).
+- ⚙️ Enfocada en **QA Automation** (Cypress, Postman) y eficiencia técnica.
+- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/duarteale)
+
+### Stack Tecnológico
+- **Lenguajes:** Python, JavaScript, SQL.
+- **Frameworks/Libs:** Django, React, Node.js, Express.
+- **Herramientas:** Git, Cypress, Postman, Docker.
